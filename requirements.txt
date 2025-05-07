@@ -1,0 +1,10 @@
+
+
+fastapi
+uvicorn
+scipy
+matplotlib
+h5py
+python-multipart
+requests
+streamlit
